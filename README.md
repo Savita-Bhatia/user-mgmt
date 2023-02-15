@@ -4,7 +4,7 @@ This Spring Boot application provides a REST API for user management.
 
 ### Installation and Setup:
 
-1. Clone the repository from GitHub , 
+1. Clone the repository from GitHub , https://github.com/Savita-Bhatia/user-mgmt
 2. Make sure you have the following tools installed:
 
     Java JDK 11 
